@@ -1,0 +1,14 @@
+Priya Patel
+Email: priya.patel.analytics@gmail.com | Phone: +91-9812345678
+Education: Bachelor of Science in Statistics
+Experience: 2.5 years of experience
+
+PROFESSIONAL SUMMARY:
+Detail-oriented Data Analyst experienced in SQL querying, Python analytics, and interactive dashboard creation.
+
+TECHNICAL SKILLS:
+Python, SQL, Pandas, NumPy, Power BI, Excel, Scikit-learn, Tableau, ETL, Data Analysis, Matplotlib
+
+KEY PROJECTS & EXPERIENCE:
+- Customer Churn Dashboard: Developed interactive Power BI executive dashboards fed by automated SQL and Python ETL scripts.
+- Predictive Retention Modeling: Built baseline classification models with Scikit-learn, achieving 84% recall.

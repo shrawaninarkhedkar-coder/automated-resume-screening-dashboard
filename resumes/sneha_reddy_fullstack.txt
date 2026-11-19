@@ -1,0 +1,14 @@
+Sneha Reddy
+Email: sneha.reddy.web@gmail.com | Phone: +91-9765432109
+Education: B.E. in Computer Science
+Experience: 3.0 years of experience
+
+PROFESSIONAL SUMMARY:
+Full Stack Web Developer with experience in React, JavaScript, Node.js, and modern frontend styling.
+
+TECHNICAL SKILLS:
+React, Node.js, JavaScript, Next.js, HTML5, CSS3, Tailwind, MongoDB, Git, basic Python
+
+KEY PROJECTS & EXPERIENCE:
+- Fintech Web Portal: Developed client-side web application in React and Next.js with state management.
+- REST API Gateway: Created Node.js and Express backend with MongoDB persistence.

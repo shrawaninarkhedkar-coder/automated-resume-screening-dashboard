@@ -1,0 +1,14 @@
+Rohit Sharma
+Email: rohit.sharma.dev@gmail.com | Phone: +91-9876543210
+Education: B.Tech in Computer Science
+Experience: 3.5 years of experience
+
+PROFESSIONAL SUMMARY:
+Experienced Python Backend Engineer specializing in scalable web APIs and microservices.
+
+TECHNICAL SKILLS:
+Python, Django, FastAPI, SQL, PostgreSQL, Docker, Git, AWS, Redis, Linux, REST API, Unit Testing
+
+KEY PROJECTS & EXPERIENCE:
+- E-Commerce Microservices: Built RESTful API backend handling 50k requests/day using FastAPI, PostgreSQL, and Docker containerization.
+- Workflow Automation Engine: Automated batch data sync across services using Python, Celery, and Redis on AWS EC2.

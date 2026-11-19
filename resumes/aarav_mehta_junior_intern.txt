@@ -1,0 +1,14 @@
+Aarav Mehta
+Email: aarav.mehta.student@gmail.com | Phone: +91-9123456780
+Education: B.Tech in Information Technology (Final Year)
+Experience: 0.5 years of experience
+
+PROFESSIONAL SUMMARY:
+Enthusiastic computer science graduate eager to apply Python programming and database fundamentals.
+
+TECHNICAL SKILLS:
+Python, C++, HTML, CSS, JavaScript, basic SQL, Git, problem solving
+
+KEY PROJECTS & EXPERIENCE:
+- Student Portal Web App: Built a basic student grading portal using Python Flask and SQLite.
+- Portfolio Website: Hosted static portfolio on GitHub Pages using Git.

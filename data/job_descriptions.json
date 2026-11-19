@@ -1,0 +1,48 @@
+{
+  "jobs": [
+    {
+      "id": "JOB-PY-001",
+      "title": "Python Developer (Backend & Automation)",
+      "department": "Engineering",
+      "min_experience_years": 2.0,
+      "required_skills": [
+        "python",
+        "django",
+        "fastapi",
+        "sql",
+        "docker",
+        "git"
+      ],
+      "nice_to_have_skills": [
+        "aws",
+        "redis",
+        "ci/cd",
+        "linux",
+        "rest api"
+      ],
+      "description": "We are seeking a proactive Python Developer with strong backend programming and API development skills. Responsibilities include designing scalable RESTful APIs using FastAPI or Django, integrating relational databases with SQL, containerizing microservices with Docker, and collaborating using Git. Experience with automated testing, cloud environments (AWS/GCP), and Linux server deployment is a strong plus."
+    },
+    {
+      "id": "JOB-DA-002",
+      "title": "Data Analyst / Associate ML Engineer",
+      "department": "Analytics & AI",
+      "min_experience_years": 1.0,
+      "required_skills": [
+        "python",
+        "sql",
+        "pandas",
+        "numpy",
+        "excel",
+        "power bi"
+      ],
+      "nice_to_have_skills": [
+        "scikit-learn",
+        "tableau",
+        "statistics",
+        "data analysis",
+        "etl"
+      ],
+      "description": "Looking for an analytical Data Analyst / Associate ML Engineer to transform business raw data into actionable dashboards and predictive models. Must have solid Python, SQL querying, Pandas data wrangling, and Power BI/Excel visualization capabilities. Familiarity with Scikit-learn for baseline machine learning classification/regression and ETL workflows is desirable."
+    }
+  ]
+}
